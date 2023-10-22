@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-"""Defines a script that saves list to a file"""
+"""
+
+Defines a script that saves list to a file
+
+"""
 
 from sys import argv
 save_to_json_file = __import__("5-save_to_json_file").save_to_json_file
